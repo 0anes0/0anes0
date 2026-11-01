@@ -34,7 +34,7 @@ kullanıyorum ve açık kaynak projelere hata düzeltmeleri ile Türkçe çeviri
 | [**Tux_Agent**](https://github.com/0anes0/Tux_Agent) | Your Claude Code agents as Tux penguins in a pixel-art office, drawn right in the terminal. |
 | [**monimesh**](https://github.com/0anes0/monimesh) | Display manager for Wayland/Hyprland: arrange monitors, save profiles, use an Android tablet as a wired second screen. |
 
-## Tools I use
+## I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
