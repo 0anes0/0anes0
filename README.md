@@ -8,7 +8,6 @@ Elektrik-Elektronik Mühendisliği öğrencisi · Linux ve açık kaynak gelişt
 
 [![GitHub](https://img.shields.io/badge/GitHub-0anes0-181717?logo=github)](https://github.com/0anes0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmeteneskaymak-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmeteneskaymak/)
-[![PyPI](https://img.shields.io/badge/PyPI-elektro--cli-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/elektro-cli/)
 
 </div>
 
