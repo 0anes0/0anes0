@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="maskot.gif" width="140" align="right" alt="maskot">
+</div>
+
 <div align="center">
 
 # Ahmet Enes Kaymak
@@ -47,5 +52,5 @@ kullanıyorum ve açık kaynak projelere hata düzeltmeleri ile Türkçe çeviri
 ---
 
 <div align="center">
-<sub>Ahmet Enes Kaymak · Aksaray University · Electrical & Electronics Engineering</sub>
+<sub>Ahmet Enes Kaymak · Electrical & Electronics Engineering Student</sub>
 </div>
