@@ -1,9 +1,7 @@
 
 <div align="center">
-  <img src="maskot.gif" width="140" align="right" alt="maskot">
-</div>
 
-<div align="center">
+<img src="maskot.gif" width="140" alt="maskot">
 
 # Ahmet Enes Kaymak
 
